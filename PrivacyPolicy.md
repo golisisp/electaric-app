@@ -18,7 +18,7 @@ Usage Data
 We may also collect information on how the Service is accessed and used. This Usage Data may include information such as your device's Internet Protocol address (e.g., IP address), device type, version, and other diagnostic data.
 
 2. Use of Data
-NEPCO APP uses the collected data for various purposes:
+Electiric  APP uses the collected data for various purposes:
 
 To provide and maintain the Service (Electricity billing and management)
 To notify you about changes to our Service
@@ -34,7 +34,7 @@ Location: Used to identify customer areas and technician locations for efficient
 Storage: Used to save billing reports and PDF invoices locally.
 Internet: Required to communicate with our secure servers for real-time billing updates.
 4. Disclosure of Data
-We do not sell or trade your Personal Data to outside parties. Your information is only shared with authorized entities (such as NEPCO and Golis Telecom) for the sole purpose of managing electricity services.
+We do not sell or trade your Personal Data to outside parties. Your information is only shared with authorized entities (such as Electiric  and Golis Telecom) for the sole purpose of managing electricity services.
 
 5. Security of Data
 The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use strike protective means to protect your Personal Data, we cannot guarantee its absolute security.
